@@ -1,5 +1,5 @@
-import {Category} from '../types/category';
+import { Category } from "../types/category";
 export const categories: Category = {
-    exit: {title:'saida socio', color: 'red', expense:true},
-    enter: {title:'entrada', color:'green',expense: false},
-    }
+  exit: { title: "saída", color: "red", expense: true },
+  enter: { title: "entrada", color: "green", expense: false },
+};
